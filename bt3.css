@@ -1,0 +1,20 @@
+body {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#increase{
+    position: absolute;
+    font-size: 50px;
+    font-family: serif;
+}
+
+.mờ-nhạt{
+    filter:brightness(0);
+    opacity:0;
+    transition: filter 1s,  opacity 1s;
+}

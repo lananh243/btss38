@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jokes Generator</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+    }
+    .container {
+      width: 700px;
+      height: 200px;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      background-color: white;
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+      margin-top: 160px;
+
+    }
+    .joke {
+      margin-bottom: 20px;
+    }
+    .button {
+      background-color: #d42f11;
+      color: white;
+      border-radius: 5px;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+    }
+    p{
+        color: rgb(185, 200, 200);
+        font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p>Don't Laugh Challenge</p>
+    <div class="joke" id="jokeText"></div>
+    <button class="button" onclick="getRandomJoke()">Get Another Joke</button> 
+  </div>
+  <script src="./bt4.js"></script>
+</body>
+</html>
