@@ -1,0 +1,102 @@
+#box{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(12, 9, 83);
+    display: flex;
+    margin: auto;
+}
+#box-1{
+    width: 450px;
+    height: 450px;
+    background-color: rgb(24, 13, 71);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: flex;
+    margin: auto;
+}
+#text{
+    white-space: nowrap;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    transform: translate(110px, 20px);
+}
+#inp{
+    width: 350px;
+    height: 30px;
+    background-color: black;
+    border: 1px;
+    display: flex;
+    transform: translate(-195px, 90px);
+}
+#icon{
+    background-color: rgb(12, 9, 83);
+    color: white;
+    display: inline-block;
+    transform: translate(130px, 61px);
+}
+#txt{
+    white-space: nowrap;
+    display: inline-block;
+    transform: translate(-560px, 140px);
+    color: white;
+}
+#choice{
+    display: inline-block;
+    transform: translate(-240px, 120px);
+}
+#txt-1{
+    white-space: nowrap;
+    display: inline-block;
+    transform: translate(-670px, 180px);
+    color: white;
+}
+#check{
+    display: inline-block;
+    transform: translate(-302px, 160px);
+}
+#txt-2{ 
+    color: white;
+    white-space: nowrap;
+    display: inline-block;
+    transform: translate(-830px, 220px);
+}
+#check-1{
+    display: inline-block;
+    transform: translate(-460px, 200px);
+}
+#txt-3{
+    color: white;
+    white-space: nowrap;
+    display: inline-block;
+    transform: translate(-990px, 260px); 
+}
+#check-2{
+    display: inline-block;
+    transform: translate(-618px, 240px);
+}
+#txt-4{
+    color: white;
+    white-space: nowrap;
+    display: inline-block;
+    transform: translate(-1099px, 300px); 
+}
+#check-3{
+    display: inline-block;
+    transform: translate(-725px, 280px);
+}
+#mouse{
+    width: 350px;
+    height: 30px;
+    border: 1px;
+    background-color: rgb(12, 8, 117);
+    display: inline-block;
+    transform: translate(-1190px, 380px);
+}
+#mix{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+   

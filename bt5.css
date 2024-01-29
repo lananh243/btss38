@@ -1,0 +1,58 @@
+#header{
+    width: 700px;
+    height: 250px;
+    background-color: blueviolet;
+}
+#view{
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 70px; 
+}
+#icon{
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin-left: 200px;
+}
+#hide{
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin-left: 210px;
+}
+#note{
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#mouse{
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin-left: 160px;
+}
+#mix{
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin-left: 180px;
+}
+#asus{
+    color: white;
+    display: inline-block;
+    transform: translate(40px);
+}
+#stu{
+    color: white;
+    display: inline-block;
+    transform: translate(185px);
+}
+#text{
+    color: white;
+    display: inline-block;
+    transform: translate(310px);
+}
